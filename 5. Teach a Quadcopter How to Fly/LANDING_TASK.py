@@ -38,7 +38,7 @@ class LandingTask():
         else:
             reward -= 10     # Punishing for each step if the agent is still above the ground
             
-        # Giving agent positive reward if at each step if the current position is 
+        # Giving agent positive reward if at each step if the current position is below the initial position
         reward += (self.sim_init_pose - self.sim.pose)[2]
         
         # Bringing the whole reward in the range of [-1, 1] and summing it to give to give the range of [-3, -3] here in this case
