@@ -1,6 +1,6 @@
 # Udacity Deep Learning Nanodegree
 
-This is the project done by me during this Nanodegree program.
+These are the projects done by me during this Nanodegree program.
 
 This repository contains project related to my Udacity's [Deep Learning Nanodegree](https://in.udacity.com/course/deep-learning-nanodegree--nd101) program. It consists of a bunch of notebooks for various deep learning topics. The notebooks lead you through project done on various networks such as convolutional networks, recurrent networks, GANs and Reinforcement Learning.
 
