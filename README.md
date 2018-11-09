@@ -9,7 +9,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ### Projects
 
-* [Your First Neural Network](https://github.com/Kshitijkc/Udacity-Deep-Learning-Nanodegree-Projects/tree/master/1.-Predicting-Bike-Sharing-Data): Implement a neural network in Numpy to predict bike rentals.
+* [Your First Neural Network](https://github.com/Kshitijkc/Udacity-Deep-Learning-Nanodegree-Projects/tree/master/1.%20Predicting%20Bike%20Sharing%20Data): Implement a neural network in Numpy to predict bike rentals.
 * [Image classification](https://github.com/udacity/deep-learning/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 * [Text Generation](https://github.com/udacity/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Machine Translation](https://github.com/udacity/deep-learning/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
